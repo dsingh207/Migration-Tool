@@ -16,11 +16,11 @@ Current migration methods are:
 
   
 
-1. Error-Prone: Manual and semi-automated approaches lead to errors. 
+1. Error-Prone: Manual and semi-automated approaches are prone to errors due to several factors. Human error can arise from fatigue or oversight, while inconsistency in task execution often leads to mistakes. Handling complex processes manually can increase the number of mistakes. Additionally, the lack of real-time feedback makes it difficult to detect and correct errors promptly. Adopting fully automated tools can help improve accuracy and consistency by addressing these issues. 
 
-2. Time-Consuming: Migration processes are lengthy and complex. 
+2. Time-Consuming: Migration processes can be time-consuming due to their length and complexity. Moving data, systems, or applications often involves multiple stages, including planning, data extraction, transformation, and validation, all of which require careful attention to detail. Each stage can involve significant manual effort, coordination among various teams, Additionally, ensuring that the migration does not disrupt ongoing operations or compromise data integrity adds to the overall complexity and duration of the process. 
 
-3. Costly: High costs due to downtime and reconfiguration needs. 
+3. Costly: Migration processes can be costly due to the significant expenses associated with downtime and reconfiguration. Downtime during migration can lead to lost productivity and revenue, while reconfiguring systems and applications to ensure compatibility and optimal performance often requires substantial investment. Also, the need for specialized expertise, potential hardware or software upgrades, and thorough testing further adds to the overall cost of migration. 
 
   
 
